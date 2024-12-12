@@ -1,707 +1,707 @@
 {
   "activities": [
     {
-      "pictureActivty":"./images_icon/wii_fit.png",
+      "pictureActivty":"images_icon/wii_fit.png",
       "name": "Wii Fit",
       "calories_per_minute": 3.67 
       
     },
     { 
-      "pictureActivty":"./images_icon/clean.jpg",
+      "pictureActivty":"images_icon/clean.jpg",
       "name": "Membersihkan",
       "calories_per_minute": 3.67
 
     },
     { 
-      "pictureActivty":"./images_icon/fishing-man.svg",
+      "pictureActivty":"images_icon/fishing-man.svg",
     "name": "Memancing", 
       "calories_per_minute": 3.67 
       
     },
     { 
-      "pictureActivty":"./images_icon/repair.jpg",
+      "pictureActivty":"images_icon/repair.jpg",
       "name": "memperbaiki", 
       "calories_per_minute": 3.67 
       
     },
     { 
-      "pictureActivty":"./images_icon/clean_car.png",
+      "pictureActivty":"images_icon/clean_car.png",
       "name": "Menyuci mobil", 
       "calories_per_minute": 3.67 
       
     },
     { 
-      "pictureActivty":"./images_icon/sail.jpg",
+      "pictureActivty":"images_icon/sail.jpg",
       "name": "Berlayar", 
       "calories_per_minute": 3.67 
       
     },
     { 
-      "pictureActivty":"./images_icon/surfing.png",
+      "pictureActivty":"images_icon/surfing.png",
       "name": "Berselancar",
       "calories_per_minute": 3.67
     },
     { 
-      "pictureActivty":"./images_icon/BoatorCanoe.jpg",
+      "pictureActivty":"images_icon/BoatorCanoe.jpg",
       "name": "Boat atau Kano", 
       "calories_per_minute": 3.67 
       
     },
     { 
-      "pictureActivty":"./images_icon/Pilates.png",
+      "pictureActivty":"images_icon/Pilates.png",
       "name": "Pilates", 
       "calories_per_minute": 3.8 
     },
     { 
-      "pictureActivty":"./images_icon/walking_medium.png",
+      "pictureActivty":"images_icon/walking_medium.png",
       "name": "Berjalan (Sedang) - 5 km/jam", 
       "calories_per_minute": 4.05
     },
     {
-      "pictureActivty":"./images_icon/exercise.jpg",
+      "pictureActivty":"images_icon/exercise.jpg",
       "name": "Senam (Ringan)",
       "calories_per_minute": 4.28
 
     },
     {
-      "pictureActivty":"./images_icon/bike_cool.jpg",
+      "pictureActivty":"images_icon/bike_cool.jpg",
       "name": "Bersepeda (Santai) - <16 km/jam",
       "calories_per_minute": 4.9
     },
     {
-      "pictureActivty":"./images_icon/Horse_riding.webp",
+      "pictureActivty":"images_icon/Horse_riding.webp",
       "name": "Menunggang Kuda",
       "calories_per_minute": 4.9 
     },
     { 
-      "pictureActivty":"./images_icon/Leaf_Sweeping.webp",
+      "pictureActivty":"images_icon/Leaf_Sweeping.webp",
       "name": "Menyapu Daun",
       "calories_per_minute": 4.9 
     },
     { 
-      "pictureActivty":"./images_icon/Sleep.jpg",
+      "pictureActivty":"images_icon/Sleep.jpg",
       "name": "Tidur", 
       "calories_per_minute": 1.1
     },
     {
-      "pictureActivty":"./images_icon/Sit.webp",
+      "pictureActivty":"images_icon/Sit.webp",
       "name": "Duduk", 
       "calories_per_minute": 1.72
     },
     {
-      "pictureActivty":"./images_icon/workOffice.png",
+      "pictureActivty":"images_icon/workOffice.png",
       "name": "Kerjaan Kantoran", 
       "calories_per_minute": 1.83
     },
     {
-      "pictureActivty":"./images_icon/Driver.jpg",
+      "pictureActivty":"images_icon/Driver.jpg",
       "name": "Mengemudi", 
       "calories_per_minute": 1.97
     },
     {
-      "pictureActivty":"./images_icon/Spa.png",
+      "pictureActivty":"images_icon/Spa.png",
       "name": "Spa", 
       "calories_per_minute": 2.45
     },
     {
-      "pictureActivty":"./images_icon/bodyMassage.jpg",
+      "pictureActivty":"images_icon/bodyMassage.jpg",
       "name": "Pijat", 
       "calories_per_minute": 2.45
     },
     {
-      "pictureActivty":"./images_icon/teach.jpg",
+      "pictureActivty":"images_icon/teach.jpg",
       "name": "Mengajar", 
       "calories_per_minute": 2.45
     },
     {
-      "pictureActivty":"./images_icon/Sing.webp",
+      "pictureActivty":"images_icon/Sing.webp",
       "name": "Menyanyi", 
       "calories_per_minute": 2.45
     },
     {
-      "pictureActivty":"./images_icon/watchingTv.avif",
+      "pictureActivty":"images_icon/watchingTv.avif",
       "name": "Menonton Televisi", 
       "calories_per_minute": 2.45
     },
     {
-      "pictureActivty":"./images_icon/cook.jpg",
+      "pictureActivty":"images_icon/cook.jpg",
       "name": "Memasak", 
       "calories_per_minute": 2.45
     },
     {
-      "pictureActivty":"./images_icon/takeaBath.png",
+      "pictureActivty":"images_icon/takeaBath.png",
       "name": "Mandi", 
       "calories_per_minute": 2.45
     },
     {
-      "pictureActivty":"./images_icon/Read.png",
+      "pictureActivty":"images_icon/Read.png",
       "name": "Membaca", 
       "calories_per_minute": 2.45
     },
     {
-      "pictureActivty":"./images_icon/sewing.png",
+      "pictureActivty":"images_icon/sewing.png",
       "name": "Menjahit", 
       "calories_per_minute": 2.45
     },
     {
-      "pictureActivty":"./images_icon/Study.jpg",
+      "pictureActivty":"images_icon/Study.jpg",
       "name": "Belajar", 
       "calories_per_minute": 2.45
     },
     {
-      "pictureActivty":"./images_icon/bermain Musik.jpg",
+      "pictureActivty":"images_icon/bermain Musik.jpg",
       "name": "Bermain Musik", 
       "calories_per_minute": 2.45
     },
     {
-      "pictureActivty":"./images_icon/walking_easy.jpg",
+      "pictureActivty":"images_icon/walking_easy.jpg",
       "name": "Berjalan (Lambat) - 3 km/jam", 
       "calories_per_minute": 2.45
     },
     {
-      "pictureActivty":"./images_icon/stand_up_human.png",
+      "pictureActivty":"images_icon/stand_up_human.png",
       "name": "Berdiri", 
       "calories_per_minute": 2.45
     },
     {
-      "pictureActivty":"./images_icon/work.png",
+      "pictureActivty":"images_icon/work.png",
       "name": "Kerja", 
       "calories_per_minute": 2.45
     },
     {
-      "pictureActivty":"./images_icon/yoga.jpg",
+      "pictureActivty":"images_icon/yoga.jpg",
       "name": "Yoga", 
       "calories_per_minute": 3.07
     },
     {
-      "pictureActivty":"./images_icon/houseWork.webp",
+      "pictureActivty":"images_icon/houseWork.webp",
       "name": "Pekerjaan Rumah Tangga", 
       "calories_per_minute": 3.07
     },
     {
-      "pictureActivty":"./images_icon/shopping.jpg",
+      "pictureActivty":"images_icon/shopping.jpg",
       "name": "Berbelanja", 
       "calories_per_minute": 3.67
     },
     {
-      "pictureActivty":"./images_icon/Sauna.png",
+      "pictureActivty":"images_icon/Sauna.png",
       "name": "Sauna", 
       "calories_per_minute": 3.67
     },
     { 
-      "pictureActivty":"./images_icon/motorCross.jpg",
+      "pictureActivty":"images_icon/motorCross.jpg",
       "name": "Motor-Cross", 
       "calories_per_minute": 4.9 
     },
     { 
-      "pictureActivty":"./images_icon/golf.jpg",
+      "pictureActivty":"images_icon/golf.jpg",
       "name": "Golf", 
       "calories_per_minute": 4.9 
     },
     { 
-      "pictureActivty":"./images_icon/bowling.jpg",
+      "pictureActivty":"images_icon/bowling.jpg",
       "name": "Bowling", 
       "calories_per_minute": 4.9 
 
     },
     { 
-      "pictureActivty":"./images_icon/volleyBall.jpg",
+      "pictureActivty":"images_icon/volleyBall.jpg",
       "name": "Bola Voli", 
       "calories_per_minute": 4.9 
     },
     { 
-      "pictureActivty":"./images_icon/gardening.webp",
+      "pictureActivty":"images_icon/gardening.webp",
       "name": "Berkebun", 
       "calories_per_minute": 4.9 
     },
     { 
-      "pictureActivty":"./images_icon/tabbleTenis.jpg",
+      "pictureActivty":"images_icon/tabbleTenis.jpg",
       "name": "Tenis Meja (Ping Pong)", 
       "calories_per_minute": 4.9 
     },
     { 
-      "pictureActivty":"./images_icon/arcer.jpg",
+      "pictureActivty":"images_icon/arcer.jpg",
     "name": "Memanah", 
       "calories_per_minute": 4.9 
 
     },
     { 
-      "pictureActivty":"./images_icon/painting.webp",
+      "pictureActivty":"images_icon/painting.webp",
       "name": "Mengecat", 
       "calories_per_minute": 6.13 
       
     },
     { 
-      "pictureActivty":"./images_icon/Shovel.jpg",
+      "pictureActivty":"images_icon/Shovel.jpg",
     "name": "Menyekop", 
       "calories_per_minute": 6.13 
       
     },
     { 
-      "pictureActivty":"./images_icon/hunter.webp",
+      "pictureActivty":"images_icon/hunter.webp",
        "name": "Berburu", 
       "calories_per_minute": 6.13 
       
     },
     { 
-      "pictureActivty":"./images_icon/walking_hard.jpg",
+      "pictureActivty":"images_icon/walking_hard.jpg",
     "name": "Berjalan (Cepat) - 6,5 km/jam", 
       "calories_per_minute": 6.13 
       
     },
     { 
-      "pictureActivty":"./images_icon/skating.jpeg",
+      "pictureActivty":"images_icon/skating.jpeg",
     "name": "Skating", 
       "calories_per_minute": 6.13 
       
     },
     { 
-      "pictureActivty":"./images_icon/kriket.jpeg",
+      "pictureActivty":"images_icon/kriket.jpeg",
       "name": "Kriket", 
       "calories_per_minute": 6.13 
     },
     { 
-      "pictureActivty":"./images_icon/kayaking.jpeg",
+      "pictureActivty":"images_icon/kayaking.jpeg",
       "name": "Kayaking", 
       "calories_per_minute": 6.13 
     },
     { 
-      "pictureActivty":"./images_icon/hula hoop.jpeg",
+      "pictureActivty":"images_icon/hula hoop.jpeg",
     "name": "Hula Hoop", 
       "calories_per_minute": 6.13 
       
     },
     { 
-      "pictureActivty":"./images_icon/tari keseimbangan.jpeg",
+      "pictureActivty":"images_icon/tari keseimbangan.jpeg",
       "name": "Tari (Keseimbangan)", 
       "calories_per_minute": 6.13 
     },
     { 
-      "pictureActivty":"./images_icon/bisbol.jpeg",
+      "pictureActivty":"images_icon/bisbol.jpeg",
       "name": "Bisbol (Baseball)", 
       "calories_per_minute": 6.13 
     },
     { 
-      "pictureActivty":"./images_icon/memotong rumput.jpeg",
+      "pictureActivty":"images_icon/memotong rumput.jpeg",
       "name": "Memotong Rumput", 
       "calories_per_minute": 6.13 
     },
     { 
-      "pictureActivty":"./images_icon/softball.jpeg",
+      "pictureActivty":"images_icon/softball.jpeg",
       "name": "Softball", 
       "calories_per_minute": 6.13 
     },
     {
-      "pictureActivty":"./images_icon/pengkondisian latihan.jpeg",
+      "pictureActivty":"images_icon/pengkondisian latihan.jpeg",
       "name": "Pengkondisian Latihan (Klub Kesehatan)",
       "calories_per_minute": 6.73
     },
     { 
-      "pictureActivty":"./images_icon/ski (air).jpeg",
+      "pictureActivty":"images_icon/ski (air).jpeg",
       "name": "Ski (Air)", 
       "calories_per_minute": 7.35 
     },
     { 
-      "pictureActivty":"./images_icon/tari (gerak cepat aerobik).webp",
+      "pictureActivty":"images_icon/tari (gerak cepat aerobik).webp",
       "name": "Tari (Gerak Cepat, Aerobik)", 
       "calories_per_minute": 7.35 
     },
     { 
-      "pictureActivty":"./images_icon/selam scuba.jpeg",
+      "pictureActivty":"images_icon/selam scuba.jpeg",
     "name": "Selam Scuba", 
       "calories_per_minute": 7.35 
     },
     { 
-      "pictureActivty":"./images_icon/power walking.webp",
+      "pictureActivty":"images_icon/power walking.webp",
       "name": "Power Walking", 
       "calories_per_minute": 7.35 
     },
     { 
-      "pictureActivty":"./images_icon/memanjat pohon.png",
+      "pictureActivty":"images_icon/memanjat pohon.png",
       "name": "Memanjat Pohon", 
       "calories_per_minute": 7.35 
     },
     {
-      "pictureActivty":"./images_icon/trampolin.jpeg",
+      "pictureActivty":"images_icon/trampolin.jpeg",
       "name": "Trampoline",
       "calories_per_minute": 7.35 
     },
     {
       
-      "pictureActivty":"./images_icon/latihan beban.png",
+      "pictureActivty":"images_icon/latihan beban.png",
       "name": "Latihan Beban",
       "calories_per_minute": 7.35 
     },
     { 
-      "pictureActivty":"./images_icon/gym.jpeg",
+      "pictureActivty":"images_icon/gym.jpeg",
       "name": "Gym", 
       "calories_per_minute": 7.35
     },
     { 
-      "pictureActivty":"./images_icon/bola lantai.jpeg",
+      "pictureActivty":"images_icon/bola lantai.jpeg",
       "name": "Floorball", 
       "calories_per_minute": 7.35 
     },
     { 
-      "pictureActivty":"./images_icon/bola jaring (netball).jpeg",
+      "pictureActivty":"images_icon/bola jaring (netball).jpeg",
       "name": "Bola Jaring (Netball)", 
       "calories_per_minute": 7.35 
     },
     { 
-      "pictureActivty":"./images_icon/pole dance.jpeg",
+      "pictureActivty":"images_icon/pole dance.jpeg",
       "name": "Pole Dance", 
       "calories_per_minute": 7.35 
       
     },
     { 
-      "pictureActivty":"./images_icon/basket.jpeg",
+      "pictureActivty":"images_icon/basket.jpeg",
       "name": "Basket", 
       "calories_per_minute": 7.35 
     },
     {
-      "pictureActivty":"./images_icon/aerobik.jpg",
+      "pictureActivty":"images_icon/aerobik.jpg",
       "name": "Aerobik", 
       "calories_per_minute": 8.57
     },
     {
-      "pictureActivty":"./images_icon/HIIT.jpeg",
+      "pictureActivty":"images_icon/HIIT.jpeg",
       "name":"HIIT", 
       "calories_per_minute": 8.57
     },
     {
-      "pictureActivty":"./images_icon/insanity.webp",
+      "pictureActivty":"images_icon/insanity.webp",
       "name": "Insanity", 
       "calories_per_minute": 8.57
     },
     {
-      "pictureActivty":"./images_icon/jiujitsu.avif",
+      "pictureActivty":"images_icon/jiujitsu.avif",
       "name": "Jiu-jitsu", 
       "calories_per_minute": 8.57
     },
     {
-      "pictureActivty":"./images_icon/judo.avif",
+      "pictureActivty":"images_icon/judo.avif",
       "name": "Judo", 
       "calories_per_minute": 8.57
     },
     {
-      "pictureActivty":"./images_icon/kangoo.jpg",
+      "pictureActivty":"images_icon/kangoo.jpg",
       "name": "Kangoo", 
       "calories_per_minute": 8.57
     },
     {
-      "pictureActivty":"./images_icon/karate.png",
+      "pictureActivty":"images_icon/karate.png",
       "name": "Karate", 
       "calories_per_minute": 8.57
     },
     {
-      "pictureActivty":"./images_icon/Kickboxing.jpg",
+      "pictureActivty":"images_icon/Kickboxing.jpg",
       "name": "Kickboxing", 
       "calories_per_minute": 8.57
     },
     {
-      "pictureActivty":"./images_icon/muay thai.jpg",
+      "pictureActivty":"images_icon/muay thai.jpg",
       "name": "Muay Thai", 
       "calories_per_minute": 8.57
     },
     {
-      "pictureActivty":"./images_icon/naik tangga (stairs).png",
+      "pictureActivty":"images_icon/naik tangga (stairs).png",
       "name": "Naik Tangga", 
       "calories_per_minute": 8.57
     },
     {
-      "pictureActivty":"./images_icon/P90X.png",
+      "pictureActivty":"images_icon/P90X.png",
       "name": "P90X", 
       "calories_per_minute": 8.57
     },
     {
-      "pictureActivty":"./images_icon/Power Jump.png",
+      "pictureActivty":"images_icon/Power Jump.png",
       "name": "Power Jump", 
       "calories_per_minute": 8.57
     },
     {
-      "pictureActivty":"./images_icon/RPM.png",
+      "pictureActivty":"images_icon/RPM.png",
       "name": "RPM", 
       "calories_per_minute": 8.57
     },
     { 
-      "pictureActivty":"./images_icon/Seni Bela diri.jpeg",
+      "pictureActivty":"images_icon/Seni Bela diri.jpeg",
       "name": "Seni Bela Diri", 
       "calories_per_minute": 8.57
     },
     {
-      "pictureActivty":"./images_icon/snowboard.png",
+      "pictureActivty":"images_icon/snowboard.png",
       "name": "Snowboard", 
       "calories_per_minute": 8.57
     },
     {
-      "pictureActivty":"./images_icon/T25.png",
+      "pictureActivty":"images_icon/T25.png",
       "name": "T25", 
       "calories_per_minute": 8.57
     },
     {
-      "pictureActivty":"./images_icon/Tae bo.jpeg",
+      "pictureActivty":"images_icon/Tae bo.jpeg",
       "name": "Tae Bo", 
       "calories_per_minute": 8.57
     },
     {
-      "pictureActivty":"./images_icon/Taekwondo.png",
+      "pictureActivty":"images_icon/Taekwondo.png",
       "name": "Taekwondo", 
       "calories_per_minute": 8.57
     },
     {
-      "pictureActivty":"./images_icon/TRX.png",
+      "pictureActivty":"images_icon/TRX.png",
       "name": "TRX", 
       "calories_per_minute": 8.57
     },
     {
-      "pictureActivty":"./images_icon/VTT.jpeg",
+      "pictureActivty":"images_icon/VTT.jpeg",
       "name": "VTT", 
       "calories_per_minute": 8.57
     },
     {
-      "pictureActivty":"./images_icon/fitness(worjout).jpeg",
+      "pictureActivty":"images_icon/fitness(worjout).jpeg",
       "name": "Fitness (Workout)", 
       "calories_per_minute": 8.57
     },
     {
-      "pictureActivty":"./images_icon/zumba.png",
+      "pictureActivty":"images_icon/zumba.png",
       "name": "Zumba", 
       "calories_per_minute": 8.57
     },
     {
-      "pictureActivty":"./images_icon/crossfit.png",
+      "pictureActivty":"images_icon/crossfit.png",
       "name": "Crossfit", 
       "calories_per_minute": 8.57
     },
     {
-      "pictureActivty":"./images_icon/balet.png",
+      "pictureActivty":"images_icon/balet.png",
       "name": "Ballet", 
       "calories_per_minute": 8.57
     },
     {
-      "pictureActivty":"./images_icon/body attack.jpeg",
+      "pictureActivty":"images_icon/body attack.jpeg",
       "name": "Body Attack", 
       "calories_per_minute": 8.57
     },
     {
-      "pictureActivty":"./images_icon/body balance.png",
+      "pictureActivty":"images_icon/body balance.png",
       "name": "Body Balance", 
       "calories_per_minute": 8.57
     },
     {
-      "pictureActivty":"./images_icon/body pump.png",
+      "pictureActivty":"images_icon/body pump.png",
       "name": "Body Pump", 
       "calories_per_minute": 8.57
     },
     {
-      "pictureActivty":"./images_icon/body combat.png",
+      "pictureActivty":"images_icon/body combat.png",
       "name": "Body Combat", 
       "calories_per_minute": 8.57
     },
     {
-      "pictureActivty":"./images_icon/berenang.jpeg",
+      "pictureActivty":"images_icon/berenang.jpeg",
       "name": "Berenang", 
       "calories_per_minute": 8.57
     },
     {
-      "pictureActivty":"./images_icon/cardio.png",
+      "pictureActivty":"images_icon/cardio.png",
       "name": "Cardio", 
       "calories_per_minute": 8.57
     },
     {
-      "pictureActivty":"./images_icon/cross training.jpg",
+      "pictureActivty":"images_icon/cross training.jpg",
       "name": "Cross Training", 
       "calories_per_minute": 8.57
     },
     {
-      "pictureActivty":"./images_icon/aerobic air1.webp",
+      "pictureActivty":"images_icon/aerobic air1.webp",
       "name": "Aerobik Air", 
       "calories_per_minute": 8.57
     },
     {
-      "pictureActivty":"./images_icon/stationary bike.png",
+      "pictureActivty":"images_icon/stationary bike.png",
       "name": "Sepeda Mesin (Stationary Bike)", 
       "calories_per_minute": 9.8
     },
     {
-      "pictureActivty":"./images_icon/rugby.webp",
+      "pictureActivty":"images_icon/rugby.webp",
       "name": "Rugby", 
       "calories_per_minute": 9.8
     },
     {
-      "pictureActivty":"./images_icon/gymnastics.webp",
+      "pictureActivty":"images_icon/gymnastics.webp",
       "name": "Senam (Berat)", 
       "calories_per_minute": 9.8
     },
     {
-      "pictureActivty":"./images_icon/perlombaan.png",
+      "pictureActivty":"images_icon/perlombaan.png",
       "name": "Perlombaan", 
       "calories_per_minute": 9.8
     },
     {
-      "pictureActivty":"./images_icon/football.jpg",
+      "pictureActivty":"images_icon/football.jpg",
       "name": "Sepak Bola", 
       "calories_per_minute": 9.8
     },
     {
-      "pictureActivty":"./images_icon/rowing.webp",
+      "pictureActivty":"images_icon/rowing.webp",
       "name": "Rowing", 
       "calories_per_minute": 9.8
     },
     {
-      "pictureActivty":"./images_icon/ski.jpg",
+      "pictureActivty":"images_icon/ski.jpg",
       "name": "Ski (Turun Bukit)", 
       "calories_per_minute": 9.8
     },
     {
-      "pictureActivty":"./images_icon/stepper.jpg",
+      "pictureActivty":"images_icon/stepper.jpg",
       "name": "Stepper", 
       "calories_per_minute": 9.8
     },
     {
-      "pictureActivty":"./images_icon/squash.jpeg",
+      "pictureActivty":"images_icon/squash.jpeg",
       "name": "Squash atau Bola Tangan", 
       "calories_per_minute": 9.8
     },
     {
-      "pictureActivty":"./images_icon/squats.png",
+      "pictureActivty":"images_icon/squats.png",
       "name": "Squats", 
       "calories_per_minute": 9.8
     },
     {
-      "pictureActivty":"./images_icon/Arc Trainer.jpeg",
+      "pictureActivty":"images_icon/Arc Trainer.jpeg",
       "name": "Arc Trainer", 
       "calories_per_minute": 9.8
     },
     {
       
-      "pictureActivty":"./images_icon/Angkat besi.jpg",
+      "pictureActivty":"images_icon/Angkat besi.jpg",
       "name": "Angkat Besi", 
       "calories_per_minute": 9.8
  
     },
     {
-    "pictureActivty":"./images_icon/Tredmill.jpg",
+    "pictureActivty":"images_icon/Tredmill.jpg",
     "name": "Treadmill", 
     "calories_per_minute": 9.8
     },
     {
-      "pictureActivty":"./images_icon/Air climber.png",
+      "pictureActivty":"images_icon/Air climber.png",
       "name": "Air Climber", 
       "calories_per_minute": 9.8
     },
     {
-      "pictureActivty":"./images_icon/Vibranation plate.png",
+      "pictureActivty":"images_icon/Vibranation plate.png",
       "name": "Vibration Plate", 
       "calories_per_minute": 9.8
     },
     {
-      "pictureActivty":"./images_icon/spinning.jpg",
+      "pictureActivty":"images_icon/spinning.jpg",
       "name": "Spinning", 
       "calories_per_minute": 9.8
     },
     {
-      "pictureActivty":"./images_icon/Pendakian.jpg",
+      "pictureActivty":"images_icon/Pendakian.jpg",
       "name": "Pendakian", 
       "calories_per_minute": 9.8
     },
     {
-      "pictureActivty":"./images_icon/Jogging.jpg",
+      "pictureActivty":"images_icon/Jogging.jpg",
       "name": "Jogging", 
       "calories_per_minute": 9.8
     },
     {
-      "pictureActivty":"./images_icon/Nordic Walking.jpg",
+      "pictureActivty":"images_icon/Nordic Walking.jpg",
       "name": "Nordic Walking", 
       "calories_per_minute": 9.8
     },
     {
-      "pictureActivty":"./images_icon/elliptical.jpg",
+      "pictureActivty":"images_icon/elliptical.jpg",
       "name": "Elliptical", 
       "calories_per_minute": 9.8
     },
     { 
-      "pictureActivty":"./images_icon/Bola tangan.jpg",
+      "pictureActivty":"images_icon/Bola tangan.jpg",
       "name": "Bola Tangan (Handball)", 
       "calories_per_minute": 9.8
     },
     { 
-      "pictureActivty":"./images_icon/montain biking.jpg",
+      "pictureActivty":"images_icon/montain biking.jpg",
       "name": "Mountain Biking", 
       "calories_per_minute": 9.8
     },
     {
-      "pictureActivty":"./images_icon/hoki.jpg",
+      "pictureActivty":"images_icon/hoki.jpg",
       "name": "Hoki", 
       "calories_per_minute": 9.8
     },
     {
-      "pictureActivty":"./images_icon/sit up.png",
+      "pictureActivty":"images_icon/sit up.png",
       "name": "Sit-up", 
       "calories_per_minute": 9.8
     },
     {
-      "pictureActivty":"./images_icon/Hoki es.png",
+      "pictureActivty":"images_icon/Hoki es.png",
       "name": "Hoki Es", 
       "calories_per_minute": 9.8
     },
     {
-      "pictureActivty":"./images_icon/jumping jacks.webp",
+      "pictureActivty":"images_icon/jumping jacks.webp",
       "name": "Jumping Jacks", 
       "calories_per_minute": 9.8
     },
     {
-      "pictureActivty":"./images_icon/bike_medium.webp",
+      "pictureActivty":"images_icon/bike_medium.webp",
       "name":"Bersepeda (Sedang) - 21 km/jam", 
       "calories_per_minute": 9.8
     },
     {
-      "pictureActivty":"./images_icon/kettlabell.png",
+      "pictureActivty":"images_icon/kettlabell.png",
       "name": "Kettlebell", 
       "calories_per_minute": 9.8
     },
     {
-      "pictureActivty":"./images_icon/Lacrosse.jpg",
+      "pictureActivty":"images_icon/Lacrosse.jpg",
       "name": "Lacrosse", 
       "calories_per_minute": 9.8
     },
     {
-      "pictureActivty":"./images_icon/padel.png",
+      "pictureActivty":"images_icon/padel.png",
       "name": "Padel", 
       "calories_per_minute": 9.8
     },
     {
-      "pictureActivty":"./images_icon/badminton.jpeg",
+      "pictureActivty":"images_icon/badminton.jpeg",
       "name": "Badminton", 
       "calories_per_minute": 12.25
     },
     {
-      "pictureActivty":"./images_icon/skipping.jpg",
+      "pictureActivty":"images_icon/skipping.jpg",
       "name": "Lompat Tali (Skipping)", 
       "calories_per_minute": 12.25
     },
     {
-      "pictureActivty":"./images_icon/rollerBlade.webp",
+      "pictureActivty":"images_icon/rollerBlade.webp",
       "name": "Roller Blade", 
       "calories_per_minute": 12.25
     },
     {
-      "pictureActivty":"./images_icon/bike_speed.jpg",
+      "pictureActivty":"images_icon/bike_speed.jpg",
       "name":"Bersepeda (Cepat) - 24 km/jam", 
       "calories_per_minute": 12.25
     },
     {
-    "pictureActivty":"./images_icon/run.svg",
+    "pictureActivty":"images_icon/run.svg",
     "name": "Lari", 
     "calories_per_minute": 14.08
     },
     {
-    "pictureActivty":"./images_icon/bike_Veryspeed.jpg",
+    "pictureActivty":"images_icon/bike_Veryspeed.jpg",
     "name": "Bersepeda (Sangat Cepat) - 28 km/jam", 
     "calories_per_minute": 14.7
     },
     {
-      "pictureActivty":"./images_icon/boxing.webp",
+      "pictureActivty":"images_icon/boxing.webp",
       "name": "Tinju", 
       "calories_per_minute": 14.7
     }
