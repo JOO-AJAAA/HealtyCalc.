@@ -1,0 +1,42 @@
+.custom-fieldset {
+  border: 1px solid #ddd;
+  padding: 10px;
+  position: relative;
+  margin-bottom: 15px;
+}
+nav{
+  border-bottom: 10px black;
+}
+.custom-legend {
+  width: auto;
+  padding: 0 10px;
+  border: 1px solid #ddd;
+  font-size: 0.8em;
+  position: absolute;
+  top: -12px;
+  left: 10px;
+  background: white;
+}
+
+.remove-btn {
+  position: absolute;
+  top: 0;
+  left: -40px;
+  height: 100%;
+  border-radius: 0;
+  display: none; /* Sembunyikan tombol hapus */
+}
+h5{
+  font-size: 20px;
+}
+h5.card-titles{
+  font-size: 19px;
+  font-style: oblique;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+small{
+  color: rgba(0, 0, 0, 0.571);
+}
+.nav-link.active-bg-success {
+  background-color: rgb(10, 154, 10); /* Replace 'green' with your desired green color code */
+}
